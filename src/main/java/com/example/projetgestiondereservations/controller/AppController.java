@@ -8,6 +8,6 @@ public class AppController {
 
     @GetMapping("/accueil")
     public String showPageAccuil() {
-        return "app";
+        return "index";
     }
 }
