@@ -38,7 +38,7 @@ build/
 Thumbs.db
 
 # Java specific
-*.class
 *.jar
+*.class
 *.war
 *.ear
